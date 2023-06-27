@@ -1,0 +1,159 @@
+Dish,Dish_Type,Type,Category,Ingredient_1,Ingredient_2,Ingredient_3
+Idly,Breakfast,Breakfast,Vegetarian,black gram , rice, water
+Sambar Idly,Breakfast,Breakfast,Vegetarian,vegetables, dal, sambar powder 
+Vada,Breakfast,Breakfast,Vegetarian,dal, water,
+Dosa,Breakfast,Breakfast,Vegetarian,black gram, rice,
+Mysore Bonda,Breakfast,Breakfast,Vegetarian,rice, all purpose flour, baking soda
+Pesarattu-Upma,Breakfast,Breakfast,Vegetarian,moong beans, semolina,
+Only Upma,Breakfast,Breakfast,Vegetarian,semolina,,
+Only Pesarattu,Breakfast,Breakfast,Vegetarian,moong beans,,
+Oothappam,Breakfast,Breakfast,Vegetarian,black gram, rice,
+Pongal,Breakfast,Breakfast,Vegetarian,rice, moong beans,
+Appam,Breakfast,Breakfast,Vegetarian,rice, coconut milk, sugar
+Idiyappam,Breakfast,Breakfast,Vegetarian,rice, water, coconut
+Parotta,Breakfast,Breakfast,Vegetarian,flour, semolina, ghee
+Chole Bhature,Breakfast,Breakfast,Vegetarian,chickpeas, flour, yoghurt
+Paratha,Breakfast,Breakfast,Vegetarian,flour, semolina, ghee
+Methi Thepla,Breakfast,Breakfast,Vegetarian,flour, chickpea. Ghee,
+Poori Bhaji,Breakfast,Breakfast,Vegetarian,flour, potato, ghee
+Poha,Breakfast,Breakfast,Vegetarian,flattened rice,vegetables,
+Sandwich,Breakfast,Breakfast,Vegetarian,bread,vegetables,
+Bread Toast,Breakfast,Breakfast,Vegetarian,bread,butter,
+Bread Omlette,Breakfast,Breakfast,Non-Vegeterian,bread, egg,
+Vegetable Maggi,Breakfast,Breakfast,Vegetarian,noodles,vegetables,
+Non-Veg Maggi,Breakfast,Breakfast,Non-Vegeterian,noodles, egg,chicken
+Veg Cutlet,Lunch and Dinner,Starters,Vegetarian,vegetables, bread,
+Veg Dumplings,Lunch and Dinner,Starters,Vegetarian,flour, vegetables,
+Veg Pakora,Lunch and Dinner,Starters,Vegetarian,vegetables, flour ,
+Veg lollipop,Lunch and Dinner,Starters,Vegetarian,vegetables, corn flour, spices
+Hara Bara Kabab,Lunch and Dinner,Starters,Vegetarian,vegetables, flour, bread
+Seekh Kabab,Lunch and Dinner,Starters,Non-Vegeterian,mutton, yogurt, spices
+Bharwa Aloo,Lunch and Dinner,Starters,Vegetarian,potato, cheese, spices 
+Paneer Tikka,Lunch and Dinner,Starters,Vegetarian,paneer,yogurt,vegetables
+Paneer Achari,Lunch and Dinner,Starters,Vegetarian,paneer,yogurt,vegetables
+Paneer Multani Tikka,Lunch and Dinner,Starters,Vegetarian,paneer,cheese,mushroom
+Haryali Paneer Tikka,Lunch and Dinner,Starters,Vegetarian,paneer,yogurt, spices
+Paneer Amritsari Tikka,Lunch and Dinner,Starters,Vegetarian,paneer, lemon, spices
+Mushroom Tikka,Lunch and Dinner,Starters,Vegetarian,mushroom, yogurt, spices
+Mushroom Malai Tikka,Lunch and Dinner,Starters,Vegetarian,mushroom, cream, spices
+Veg Platter,Lunch and Dinner,Starters,Vegetarian,vegetables, yogurt, lemon
+Chilli Potatoes,Lunch and Dinner,Starters,Vegetarian,potato, sauce, cornflour
+Veg Spring Rolls,Lunch and Dinner,Starters,Vegetarian,vegetables, flour, flour
+Veg Manchurian,Lunch and Dinner,Main course,Vegetarian,vegetables, corn flour, sauce
+Crispy Corn,Lunch and Dinner,Main course,Vegetarian,corn, corn flour, spices
+Baby Corn,Lunch and Dinner,Main course,Vegetarian,corn, corn flour, sauce
+Gobi Manchurian,Lunch and Dinner,Main course,Vegetarian,corn flour, vegetables, sauce
+Chilli Mushroom,Lunch and Dinner,Main course,Vegetarian,mushroom, corn flour, sauce
+Chilli Paneer,Lunch and Dinner,Main course,Vegetarian,paneer, corn flour, sauce
+Paneer 65,Lunch and Dinner,Main course,Vegetarian,paneer, rice flour, spices
+Chicken Tandoori,Lunch and Dinner,Main course,Non-Vegeterian,chicken, spices, lemon
+Chicken Seekh Kabab,Lunch and Dinner,Main course,Non-Vegeterian,chicken, yogurt, spices
+Chicken Tikka Dry,Lunch and Dinner,Main course,Non-Vegeterian,chicken, yogurt, spices
+Chicken Achari,Lunch and Dinner,Main course,Non-Vegeterian,chicken, yogurt, spices
+Chicken Malai,Lunch and Dinner,Main course,Non-Vegeterian,chicken, yogurt, spices
+Chicken Pakora,Lunch and Dinner,Main course,Non-Vegeterian,chicken, rice flour, spices
+Chicken Roast,Lunch and Dinner,Main course,Non-Vegeterian,chicken, spices, lemon
+Pepper Garlic Chicken,Lunch and Dinner,Main course,Non-Vegeterian,chicken, spices, vegetables 
+Lemon Chicken,Lunch and Dinner,Main course,Non-Vegeterian,chicken, lemon, spices
+Cashew Chicken,Lunch and Dinner,Main course,Non-Vegeterian,chicken, cashew, sauce
+Chicken Fry,Lunch and Dinner,Main course,Non-Vegeterian,chicken, egg, flour
+Chicken RR,Lunch and Dinner,Main course,Non-Vegeterian,chicken, pasta, sauce
+Murgh Tangdi Kabab,Lunch and Dinner,Main course,Non-Vegeterian,chicken, yogurt, lemon
+Murgh Lasooni Kabab,Lunch and Dinner,Main course,Non-Vegeterian,chicken, cream, spices
+Mutton Fry,Lunch and Dinner,Main course,Non-Vegeterian,mutton, spices,
+Mutton RR,Lunch and Dinner,Main course,Non-Vegeterian,mutton, pasta, sauce
+Mutton Seekh Kabab,Lunch and Dinner,Main course,Non-Vegeterian,mutton, spices, egg
+Mutton Awadhi Kabab,Lunch and Dinner,Main course,Non-Vegeterian,mutton, papaya, spices
+Mutton Cutlet,Lunch and Dinner,Main course,Non-Vegeterian,mutton, spices, potato
+Mutton Pepper Fry,Lunch and Dinner,Main course,Non-Vegeterian,mutton, spices, lemon
+Fish tikka,Lunch and Dinner,Main course,Non-Vegeterian,fish, yogurt, spices
+Fish Fry,Lunch and Dinner,Main course,Non-Vegeterian,fish, spices, lemon
+Tandoori Fish,Lunch and Dinner,Main course,Non-Vegeterian,fish, yogurt, spices
+Prawns Fry,Lunch and Dinner,Main course,Non-Vegeterian,fish, prawns, yogurt
+Golden Prawns,Lunch and Dinner,Main course,Non-Vegeterian,prawns, corn flour, sauce
+Butter Garlic Prawns,Lunch and Dinner,Main course,Non-Vegeterian,prawns, corn flour, sauce
+Pepper Prawns,Lunch and Dinner,Main course,Non-Vegeterian,prawns, spices, pepper
+Ginger Prawns,Lunch and Dinner,Main course,Non-Vegeterian,prawns, spices, pepper
+Apollo Fish,Lunch and Dinner,Main course,Non-Vegeterian,fish, corn flour, sauce
+Chilli Fish,Lunch and Dinner,Main course,Non-Vegeterian,fish, corn flour, sauce
+Fish Manchurian,Lunch and Dinner,Main course,Non-Vegeterian,fish, corn flour, sauce
+Loose Prawns,Lunch and Dinner,Main course,Non-Vegeterian,prawns, corn flour, spices
+Prawns Manchurian,Lunch and Dinner,Main course,Non-Vegeterian,prawns, corn flour, sauce
+Chilli Prawns,Lunch and Dinner,Main course,Non-Vegeterian,prawns, corn flour, sauce
+Mutton 65,Lunch and Dinner,Main course,Non-Vegeterian,mutton, rice flour, spices
+Pepper Mutton,Lunch and Dinner,Main course,Non-Vegeterian,mutton, spices, lemon
+Chicken Manchurian,Lunch and Dinner,Main course,Non-Vegeterian,chicken, sauce, corn flour
+Chilli Chicken,Lunch and Dinner,Main course,Non-Vegeterian,chicken, sauce, corn flour
+Chicken 65,Lunch and Dinner,Main course,Non-Vegeterian,chicken, rice flour, spices
+Chicken Drum Sticks,Lunch and Dinner,Main course,Non-Vegeterian,chicken, butter, flour
+Chicken Majestic,Lunch and Dinner,Main course,Non-Vegeterian,chicken, butter, flour
+Mushroom Masala,Lunch and Dinner,Main course,Vegetarian,mushroom, spices,
+Paneer Butter Masala,Lunch and Dinner,Main course,Vegetarian,paneer, spices, cream
+Kadaai Paneer,Lunch and Dinner,Main course,Vegetarian,paneer, vegetables, spices
+Paneer Tikka Masala,Lunch and Dinner,Main course,Vegetarian,paneer, spices, lemon
+Veg Kofta,Lunch and Dinner,Main course,Vegetarian,vegetables, flour, spices
+Aloo Gobi Masala,Lunch and Dinner,Main course,Vegetarian,vegetables, spices, potato
+Plain Dosa,Lunch and Dinner,Main course,Vegetarian,black gram, rice,
+Dal Tadka,Lunch and Dinner,Main course,Vegetarian,pulses,,
+Arachu Vitta Sambar,Lunch and Dinner,Main course,Vegetarian,vegetables, dal, sambar powder 
+Avial with Kerala Red Rice,Lunch and Dinner,Main course,Vegetarian,rice, vegetables,
+Bendekaayi Gojju (Ladys Finger Gravy),Lunch and Dinner,Main course,Vegetarian,lady finger, coconut, pulses
+Mango Kuzhambu,Lunch and Dinner,Main course,Vegetarian,mango,,
+Mix Veg Curry,Lunch and Dinner,Main course,Vegetarian,vegetables, spices,
+Farm Fresh Pizza,Lunch and Dinner,Main course,Vegetarian,pizza, vegetables, cheese
+Corn Cheese Pizza,Lunch and Dinner,Main course,Vegetarian,corn, pizza, cheese
+Margarita Pizza,Lunch and Dinner,Main course,Vegetarian,pizza, cheese,
+Mughlai Chicken Handi,Lunch and Dinner,Main course,Non-Vegeterian,chicken, spices, ghee
+Butter Chicken,Lunch and Dinner,Main course,Non-Vegeterian,chicken, spices, butter
+South Indian Chicken masala,Lunch and Dinner,Main course,Non-Vegeterian,chicken, coconut mik , spices
+Chicken Chettinad,Lunch and Dinner,Main course,Non-Vegeterian,chicken, spices,
+Chicken Korma,Lunch and Dinner,Main course,Non-Vegeterian,chicken, coconut milk, spices
+Malvani Chicken Curry,Lunch and Dinner,Main course,Non-Vegeterian,chicken, coconut, spices
+Mutton Kofte,Lunch and Dinner,Main course,Non-Vegeterian,mutton, yogurt, spices
+Nihari Gosht,Lunch and Dinner,Main course,Non-Vegeterian,mutton, spices, yogurt
+Hyderabadi Keema,Lunch and Dinner,Main course,Non-Vegeterian,mutton, spices,
+Barbeque Chicken with Breast,Lunch and Dinner,Main course,Non-Vegeterian,chicken, spices,
+Chicken Madagascar,Lunch and Dinner,Main course,Non-Vegeterian,chicken, coconut milk, spices
+Chicken Pizza,Lunch and Dinner,Main course,Non-Vegeterian,chicken, pizza, cheese
+Mutton 65 Pizza,Lunch and Dinner,Main course,Non-Vegeterian,mutton, pizza, cheese
+Chicken Pepperoni Piza,Lunch and Dinner,Main course,Non-Vegeterian,chicken, pizza, cheese
+Chicken Kheema Balls Pizza,Lunch and Dinner,Main course,Non-Vegeterian,chicken, pizza, cheese
+Plain Rice,Lunch and Dinner,Rice,Vegetarian,rice,,
+Jeera Rice,Lunch and Dinner,Rice,Vegetarian,rice,,
+Matar Pulao,Lunch and Dinner,Rice,Vegetarian,rice,,
+Paneer Pulao,Lunch and Dinner,Rice,Vegetarian,rice, paneer,
+Veg Pulao,Lunch and Dinner,Rice,Vegetarian,rice, vegetables,
+Veg biryani,Lunch and Dinner,Rice,Vegetarian,rice, vegetables,
+Veg Dum Biryani,Lunch and Dinner,Rice,Vegetarian,rice, vegetables,
+Lemon Rice,Lunch and Dinner,Rice,Vegetarian,rice, lemon,
+Chicken Dum Biryani,Lunch and Dinner,Rice,Non-Vegeterian,rice, chicken,
+Chicken Fried Rice,Lunch and Dinner,Rice,Non-Vegeterian,rice, chicken,
+Prawns Biryani,Lunch and Dinner,Rice,Non-Vegeterian,rice, prawns,
+Chicken Pulao,Lunch and Dinner,Rice,Non-Vegeterian,rice, chicken,
+Mutton Dum Biryani,Lunch and Dinner,Rice,Non-Vegeterian,rice, mutton,
+Mutton Biryani,Lunch and Dinner,Rice,Non-Vegeterian,rice, mutton,
+Fish Biryani,Lunch and Dinner,Rice,Non-Vegeterian,fish, rice,
+Mixed Non-Veg Fried Rice,Lunch and Dinner,Rice,Non-Vegeterian,rice, vegetables, egg
+Mix-Veg Fried Rice,Lunch and Dinner,Rice,Vegetarian,rice, vegetables,
+Plain Roti,Lunch and Dinner,Breads,Vegetarian,flour, water,
+Butter Roti,Lunch and Dinner,Breads,Vegetarian,flour, butter,
+Plain Naan,Lunch and Dinner,Breads,Vegetarian,flour,,
+Butter Naan,Lunch and Dinner,Breads,Vegetarian,flour, butter,
+Garlic Naan,Lunch and Dinner,Breads,Vegetarian,flour, garlic,
+Lacha Paratha,Lunch and Dinner,Breads,Vegetarian,flour, ghee,
+Fresh Lime Soda,Lunch and Dinner,Drinks,Vegetarian,lemon, soda,
+Lassi,Lunch and Dinner,Drinks,Vegetarian,milk, sweet, curd
+Vanilla Milkshake,Lunch and Dinner,Drinks,Vegetarian,milk, vanilla, sweet
+Chocolate Milkshake,Lunch and Dinner,Drinks,Vegetarian,milk, chocolate, sweet
+Ice Tea,Lunch and Dinner,Drinks,Vegetarian,tea, sweet, lemon
+Virgin Mojito,Lunch and Dinner,Drinks,Vegetarian,soda, lemon,
+Gulab Jamun,Lunch and Dinner,Desserts,Vegetarian,sweet, milk, ghee
+Ice-cream,Lunch and Dinner,Desserts,Vegetarian,sweet, milk,
+Kesariya Kheer,Lunch and Dinner,Desserts,Vegetarian,sweet, rice, milk
+Fruit cream,Lunch and Dinner,Desserts,Vegetarian,sweet, fruits, cream
+Chocolate Brownie,Lunch and Dinner,Desserts,Vegetarian,sweet, chocolate, milk
+Chocolate Pastry,Lunch and Dinner,Desserts,Vegetarian,sweet, chocolate, milk
+Malai Kulfi,Lunch and Dinner,Desserts,Vegetarian,sweet, milk, cream
+Shahi Tukda,Lunch and Dinner,Desserts,Vegetarian,sweet, milk, bread
+Carrot Halwa,Lunch and Dinner,Desserts,Vegetarian,sweet, carrot, ghee
+Moong daal Halwa,Lunch and Dinner,Desserts,Vegetarian,sweet, dal, ghee
