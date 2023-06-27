@@ -2,12 +2,11 @@ import streamlit as st
 import pickle
 import pandas as pd
 
-# BACKGROUND IMAGE
 st.markdown(
     """
     <style>
     body {
-        background-image: url("https://www.pexels.com/photo/woman-pouring-juice-on-glass-3184192/");
+        background-image: url("https://www.google.com/search?rlz=1C1CHBF_enIN1023IN1023&sxsrf=APwXEdebJqqvi8XRXujqRive6hJKpSQdIQ:1687858518259&q=restaurant+food+images&tbm=isch&sa=X&ved=2ahUKEwiLqaX7kuP_AhXNcGwGHfshAVcQ0pQJegQIFxAB&biw=1280&bih=569&dpr=1.5#imgrc=zSmCRV72thamjM");
         background-repeat: no-repeat;
         background-size: cover;
     }
