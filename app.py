@@ -3,22 +3,18 @@ import pickle
 import pandas as pd
 
 # BACKGROUND IMAGE
-def add_bg_from_url():
-    st.markdown(
-         f"""
-         <style>
-         .stApp {{
-             background-image: url("https://img1.wsimg.com/isteam/stock/3781/:/rs=w:1542,h:1000,cg:true,m/cr=w:1542,h:1000");
-             background-attachment: fixed;
-             background-size: cover
-         }}
-         </style>
-         """,
-         unsafe_allow_html=True
-     )
-
-add_bg_from_url()
-
+st.markdown(
+    """
+    <style>
+    body {
+        background-image: url("https://www.pexels.com/photo/woman-pouring-juice-on-glass-3184192/");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 order = pickle.load(open("order.pkl","rb"))
 tab1, tab2 = st.tabs(["Premium Customer", "New Customer"])
 
